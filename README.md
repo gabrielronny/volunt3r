@@ -23,13 +23,12 @@ Em grupo pensamos em como podemos engajar os voluntários da própria empresa a 
 
 Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas no mercado
 
-* [![React][React.js]][React-url]
-* [![Java][Java]][Java-url]
-* [![Python][Python]][Python-url]
-* [![MySQL][MySQL]][MySQL-url]
-
-* [![AWS][AWS]][AWS-url]
-* [![Azure][Azure]][Azure-url]
+[![React][React.js]][React-url]
+[![Java][Java]][Java-url]
+[![Python][Python]][Python-url]
+[![MySQL][MySQL]][MySQL-url]
+[![AWS][AWS]][AWS-url]
+[![Azure][Azure]][Azure-url]
 
 
 ### Construido por
@@ -68,7 +67,7 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
             </a>
         </td>
     </tr>
-    <tr style="border: none;">
+    <tr>
         <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/henrique.jpg" alt="Logo" height="80"><br>
             <span>Henrique Zigon</span><br>
