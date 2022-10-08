@@ -35,9 +35,9 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
 ### Construido por
 <!-- GETTING STARTED -->
 
-<table>
-    <tr>
-        <td style="border: none; align">
+<table style="border: none;">
+    <tr style="border: none;">
+        <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/eduardo.jpg" alt="Logo" height="80"><br>
             <span>Eduardo Cavalcant</span><br>
             <a align="center" href="https://www.linkedin.com/in/eduardo-cavalcantifs">
@@ -47,7 +47,7 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
-        <td style="border: none; align">
+        <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/giovanna.jpg" alt="Logo" height="80"><br>
             <span>Giovanna Oliveira</span><br>
             <a align="center" href="https://www.linkedin.com/in/giovanna-oliveira-5864221a5/">
@@ -57,7 +57,7 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
-        <td style="border: none; align">
+        <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/gabriel.png" alt="Logo" height="80"><br>
             <span>Gabriel Ronny</span><br>
             <a align="center" href="https://github.com/gabrielronny">
@@ -68,8 +68,8 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
             </a>
         </td>
     </tr>
-    <tr>
-        <td style="border: none; align">
+    <tr style="border: none;">
+        <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/henrique.jpg" alt="Logo" height="80"><br>
             <span>Henrique Zigon</span><br>
             <a align="center" href="https://github.com/henrique-zigon">
@@ -79,7 +79,7 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
-        <td style="border: none; align">
+        <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/ygor.jpg" alt="Logo" height="80"><br>
             <span>Ygor Lima</span><br>
             <a align="center" href="https://www.linkedin.com/in/ygor-slima/">
