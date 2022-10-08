@@ -59,10 +59,10 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
         <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/gabriel.png" alt="Logo" height="80"><br>
             <span>Gabriel Ronny</span><br>
-            <a align="center" href="https://github.com/gabrielronny">
+            <a align="center" href="https://www.linkedin.com/in/gabrielronny/">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
-            <a align="center" href="https://www.linkedin.com/in/gabrielronny/">
+            <a align="center" href="https://github.com/gabrielronny">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
@@ -71,10 +71,10 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
         <td style="border: none;">
             <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/henrique.jpg" alt="Logo" height="80"><br>
             <span>Henrique Zigon</span><br>
-            <a align="center" href="https://github.com/henrique-zigon">
+            <a align="center" href="https://www.linkedin.com/in/henrique-zigon-78301b202/">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
-            <a align="center" href="https://www.linkedin.com/in/henrique-zigon-78301b202/">
+            <a align="center" href="https://github.com/henrique-zigon">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
