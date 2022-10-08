@@ -37,19 +37,25 @@ Para o projeto utilizamos as principais tecnologias que estão sendo utilizadas 
 
 <table>
     <tr>
-    <tr>
+    <td>
+        <span>Eduardo Cavalcant</span><br>
+        <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/eduardo.jpg" alt="Logo" height="80"><br>
+        <a align="center" href="https://www.linkedin.com/in/eduardo-cavalcantifs">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">          
+        </a><br>
+        <a align="center" href="https://github.com/eduardo-cavalcanti">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+    </td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
 </table>
 
 
 <div style="display:flex; justify-content:flex-start; grap:50px; width: 100%; flex-wrap: wrap;">
     <div style="border: 1px solid #DEDFE4; width:140px; height:auto;display:flex; justify-content:center; flex-direction: column; align-items:center; padding: 20px; border-radius:8px;">
-        <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/eduardo.jpg" alt="Logo" height="80"><br>
-        <a align="center" href="https://www.linkedin.com/in/eduardo-cavalcantifs">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">          
-        </a>
-        <a align="center" href="https://github.com/eduardo-cavalcanti">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
+        
     </div>
     <div style="border: 1px solid #DEDFE4; width:140px; height:auto;display:flex; justify-content:center; flex-direction: column; align-items:center; padding: 20px; border-radius:8px; margin-left:10px">
         <img style="border-radius: 50%; width: 80px; height: 80px" src="arquivos_readme/giovanna.jpg" alt="Logo" height="80">
